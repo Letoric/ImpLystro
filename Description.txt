@@ -1,0 +1,12 @@
+***This mod is not stackable with any mod that changes the Lystrosaurus.***
+Breeding an army of dinosaurs and need them to have a few levels? Get an improved Lystro! 
+Improved XP Buff range, duration, and multiplier, all configurable by INI.
+This is not tested for effect on stasis dinosaurs. My expectation is that it will not work on them.
+
+Check the discussions for ini configuration options!
+
+Thanks to Woeful Macabre for helping me with the graphing to remove the buff HUD from the players so that it wasn't in the way.
+Thanks to Orionsun and Tao for helping me push through the dino replacement function. 
+
+::ModID::
+923689156
